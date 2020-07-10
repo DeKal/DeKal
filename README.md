@@ -20,7 +20,7 @@ Hello world !! DeKal
                                '.     /
                                  `"~"`                                                                                                        
 ```
-With more than 3 years experiences in developing a web application, I'm currently working at a Fullstack Software Engineer for[Zalora Group](https://github.com/zalora/). In my free time, I prefer studying other technologies and also do freelance jobs.
+With more than 3 years experiences in developing a web application, I'm currently working at a Fullstack Software Engineer for [Zalora Group](https://github.com/zalora/). In my free time, I prefer studying other technologies and also do freelance jobs.
 
 ### Check out My Social Media
 - 💬 [Personal site](https://phatho-folio.now.sh/)
