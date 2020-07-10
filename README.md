@@ -28,4 +28,4 @@ With more than 3 years experiences in developing a web application, I'm currentl
 - 📹 [Facebook](https://www.facebook.com/dekal.dev)
 
 ### Hi and Welcome 
-<img src="images/bear_hi.gif?raw=true" width="500px">
+<img src="https://github.com/DeKal/DeKal/blob/master/images/bear_hi.gif?raw=true" width="500px">
