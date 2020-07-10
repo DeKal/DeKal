@@ -28,4 +28,4 @@ With more than 3 years experiences in developing a web application, I'm currentl
 - 📹 [Facebook](https://www.facebook.com/dekal.dev)
 
 ### Hi and Welcome 
-![](images/bear_hi.gif)
+[](images/bear_hi.gif)
