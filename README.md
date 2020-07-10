@@ -1,16 +1,31 @@
-### Hi there 👋
+```
+------------------------------
+Hello world !! DeKal
+------------------------------
 
-<!--
-**DeKal/DeKal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   _,-""`""-~`)
+(`~_,=========\
+ |---,___.-.__,\
+ |        o     \ ___  _,,,,_     _.--.
+  \      `^`    /`_.-"~      `~-;`     \
+   \_      _  .'                 `,     |
+     |`-                           \'__/ 
+    /                      ,_       \  `'-. 
+   /    .-""~~--.            `"-,   ;_    /
+  |              \               \  | `""`
+   \__.--'`"-.   /_               |'
+              `"`  `~~~---..,     |
+                             \ _.-'`-.
+     Bear with it...          \       \
+                               '.     /
+                                 `"~"`                                                                                                        
+```
+With more than 3 years experiences in developing a web application, I'm currently working at a Fullstack Software Engineer for[Zalora Group](https://github.com/zalora/). In my free time, I prefer studying other technologies and also do freelance jobs.
 
-Here are some ideas to get you started:
+### Check out My Social Media
+- 💬 [Personal site](https://phatho-folio.now.sh/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/phat-ho/)
+- 📹 [Facebook](https://www.facebook.com/dekal.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi and Welcome 
+![](images/bear_hi.gif)
