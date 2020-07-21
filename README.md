@@ -1,7 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/DeKal?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/DeKal)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeKal&show_icons=true&hide_border=true)
-
 ```
 ------------------------------
 Hello world !! DeKal
@@ -26,6 +24,8 @@ Hello world !! DeKal
 ```
 
 With more than 3-year experience in developing a web application, I'm currently working at a Fullstack Software Engineer for [Zalora Group](https://github.com/zalora/). In my free time, I prefer studying other cutting-edge technologies and also do some freelance jobs.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeKal&show_icons=true&hide_border=true)
 
 
 ### Social Media
