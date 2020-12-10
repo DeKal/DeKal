@@ -34,5 +34,7 @@ With more than 4-year experience in developing a web application, I'm currently 
 📧 <a href="mailto:hohuuphat22@gmail.com">Email</a> <br/>
 📄 [Resume](/cv/dekal.pdf) <br/>
 
+<br/>
+
 ### Hi and Welcome 
 <img src="https://github.com/DeKal/DeKal/blob/master/images/bear_hi.gif?raw=true" width="500px">
