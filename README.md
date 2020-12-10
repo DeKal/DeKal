@@ -5,17 +5,13 @@
 
 With more than 4-year experience in developing a web application, I'm currently working at a Fullstack Software Engineer for [Zalora Group](https://github.com/zalora/). In my free time, I prefer studying other cutting-edge technologies and also do some freelance jobs.
 
-
+<a href="https://phatho-folio.now.sh/"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=DeKal&show_icons=true&hide_border=true" align="right" height="150" /></a>
 
 
 ### Contact
-<a href="https://phatho-folio.now.sh/"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=DeKal&show_icons=true&hide_border=true" align="right" height="150" /></a>
+
 - 💬 [Personal site](https://phatho-folio.now.sh/)
 - 🔗 [Linkedin](https://www.linkedin.com/in/phat-ho/)
 - 📹 [Facebook](https://www.facebook.com/dekal.dev)
 - 📧 <a href="mailto:hohuuphat22@gmail.com">Email</a>
 - 📄 [Resume](/cv/dekal.pdf)
-
-<br/>
-
-
