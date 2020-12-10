@@ -34,8 +34,5 @@ With more than 4-year experience in developing a web application, I'm currently 
 - 📹 [Facebook](https://www.facebook.com/dekal.dev)
 - 📧 <a href="mailto:hohuuphat22@gmail.com">Email</a>
 
-
-<div style="height=300px" />
-
 ### Hi and Welcome 
 <img src="https://github.com/DeKal/DeKal/blob/master/images/bear_hi.gif?raw=true" width="500px">
