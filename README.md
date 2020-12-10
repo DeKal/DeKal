@@ -17,3 +17,5 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 - 📄 [Resume](/cv/dekal.pdf)
 
 <br/>
+
+<br/>
