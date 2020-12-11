@@ -31,4 +31,3 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 9. 🔥 Pushed to DeKal/github-activity-readme
 10. 🔥 Pushed to DeKal/github-activity-readme
 <!--END_SECTION:activity-->
-<!--END_SECTION:activity-->
