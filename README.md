@@ -17,6 +17,7 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 - 📧 <a href="mailto:hohuuphat22@gmail.com">Email</a>
 - 📄 <a id="raw-url" href="https://raw.githubusercontent.com/DeKal/DeKal/master/cv/dekal.pdf">Resume</a>
 
-<br/>
+
+<!--START_SECTION:activity-->
 
 
