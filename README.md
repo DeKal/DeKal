@@ -18,6 +18,7 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 - 📄 <a id="raw-url" href="https://raw.githubusercontent.com/DeKal/DeKal/master/cv/dekal.pdf">Resume</a>
 
 
+### My Activities
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#370](https://github.com/DeKal/portfolio-next-js/pull/370) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 2. 🎉 Merged PR [#357](https://github.com/DeKal/portfolio-next-js/pull/357) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
