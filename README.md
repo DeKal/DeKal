@@ -20,11 +20,11 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to DeKal/github-activity-readme
-2. 🔥 Pushed to DeKal/github-activity-readme
-3. 🔥 Pushed to DeKal/github-activity-readme
-4. 🔥 Pushed to DeKal/github-activity-readme
-5. 🔥 Pushed to DeKal/github-activity-readme
-6. 🔥 Pushed to DeKal/rmms-cms
-7. 🔥 Pushed to DeKal/DeKal
+1. 🔥 Pushed to BootCareer/job-seeker-dashboard
+2. 🔥 Pushed to BootCareer/job-seeker-dashboard
+3. 🎉 Merged PR [#128](https://github.com/BootCareer/job-seeker-dashboard/pull/128) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+4. 💪 Opened PR [#128](https://github.com/BootCareer/job-seeker-dashboard/pull/128) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+5. 🔥 Pushed to BootCareer/job-seeker-dashboard
+6. 🔥 Pushed to BootCareer/job-seeker-dashboard
+7. 🔥 Pushed to BootCareer/job-seeker-dashboard
 <!--END_SECTION:activity-->
