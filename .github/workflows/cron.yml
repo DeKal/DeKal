@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SECRET_GITHUB_APP_TOKEN }}
         with:
           COMMIT_MSG: 'Updating activities by schedule'
-          MAX_LINES: 7
+          MAX_LINES: 10
