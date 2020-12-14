@@ -18,7 +18,7 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 - 📄 <a id="raw-url" href="https://raw.githubusercontent.com/DeKal/DeKal/master/cv/dekal.pdf">Resume</a>
 
 
-### Recent Activities
+### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to DeKal/DeKal
 2. 🔥 Pushed to zalora/lite
