@@ -20,14 +20,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6740](https://github.com/zalora/shop/pull/6740) in [zalora/shop](https://github.com/zalora/shop)
-2. 🔥 Pushed to BootCareer/job-seeker-dashboard
-3. 🔥 Pushed to BootCareer/job-seeker-dashboard
+1. 🔥 Pushed to zalora/shop
+2. 🔥 Pushed to DeKal/illuminati
+3. 🎉 Merged PR [#358](https://github.com/DeKal/illuminati/pull/358) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
 4. 🔥 Pushed to DeKal/illuminati
-5. 🎉 Merged PR [#356](https://github.com/DeKal/illuminati/pull/356) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
-6. 🔥 Pushed to DeKal/illuminati
-7. 🎉 Merged PR [#355](https://github.com/DeKal/illuminati/pull/355) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
-8. 🔥 Pushed to DeKal/illuminati
-9. 🎉 Merged PR [#354](https://github.com/DeKal/illuminati/pull/354) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
-10. 🔥 Pushed to DeKal/illuminati
+5. 🎉 Merged PR [#360](https://github.com/DeKal/illuminati/pull/360) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
+6. 🔥 Pushed to DeKal/portfolio-next-js
+7. 🎉 Merged PR [#381](https://github.com/DeKal/portfolio-next-js/pull/381) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+8. 🔥 Pushed to DeKal/portfolio-next-js
+9. 🎉 Merged PR [#380](https://github.com/DeKal/portfolio-next-js/pull/380) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+10. 💪 Opened PR [#6740](https://github.com/zalora/shop/pull/6740) in [zalora/shop](https://github.com/zalora/shop)
 <!--END_SECTION:activity-->
