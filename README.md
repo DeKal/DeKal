@@ -20,14 +20,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to BootCareer/job-seeker-dashboard
-2. 🔥 Pushed to BootCareer/job-seeker-dashboard
-3. 🔥 Pushed to DeKal/portfolio-next-js
-4. 🎉 Merged PR [#387](https://github.com/DeKal/portfolio-next-js/pull/387) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-5. 💪 Opened PR [#387](https://github.com/DeKal/portfolio-next-js/pull/387) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-6. 🔥 Pushed to DeKal/portfolio-next-js
-7. 🎉 Merged PR [#386](https://github.com/DeKal/portfolio-next-js/pull/386) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-8. 💪 Opened PR [#386](https://github.com/DeKal/portfolio-next-js/pull/386) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-9. 🔥 Pushed to DeKal/portfolio-next-js
-10. 🎉 Merged PR [#385](https://github.com/DeKal/portfolio-next-js/pull/385) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+1. 🔥 Pushed to zalora/lite
+2. 🔥 Pushed to zalora/lite
+3. 🔥 Pushed to zalora/lite
+4. 🔥 Pushed to zalora/lite
+5. 🔥 Pushed to zalora/lite
+6. 💪 Opened PR [#1438](https://github.com/zalora/lite/pull/1438) in [zalora/lite](https://github.com/zalora/lite)
+7. 🔥 Pushed to zalora/lite
+8. 🔥 Pushed to zalora/lite
+9. 🔥 Pushed to zalora/costa
+10. 🔥 Pushed to zalora/lite
 <!--END_SECTION:activity-->
