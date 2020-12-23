@@ -21,7 +21,7 @@ jobs:
         with:
           token: ${{ secrets.SECRET_GITHUB_APP_TOKEN }}
           fetch-depth: 0
-          repository: BootCareer/job-seeker-dashboard
+          repository: DeKal/DeKal
           ref: refs/heads/master
           submodules: true
       - uses: actions/setup-node@v2-beta
