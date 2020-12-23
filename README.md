@@ -20,14 +20,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to zalora/lite
-2. 🔥 Pushed to zalora/lite
-3. 🔥 Pushed to zalora/lite
-4. 🔥 Pushed to zalora/lite
-5. 🔥 Pushed to zalora/lite
-6. 🔥 Pushed to zalora/lite
-7. 🔥 Pushed to zalora/lite
-8. 🔥 Pushed to zalora/lite
-9. 🔥 Pushed to zalora/lite
-10. 🔥 Pushed to zalora/lite
+1. 🔥 Pushed to DeKal/DeKal.github.io
+2. 🔥 Pushed to DeKal/DeKal.github.io
+3. 🔥 Pushed to DeKal/DeKal.github.io
+4. 🔥 Pushed to DeKal/DeKal.github.io
+5. 🔥 Pushed to DeKal/portfolio-next-js
+6. 🎉 Merged PR [#390](https://github.com/DeKal/portfolio-next-js/pull/390) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+7. 💪 Opened PR [#390](https://github.com/DeKal/portfolio-next-js/pull/390) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+8. 🔥 Pushed to DeKal/DeKal.github.io
+9. 🔥 Pushed to DeKal/DeKal.github.io
+10. 🔥 Pushed to DeKal/DeKal
 <!--END_SECTION:activity-->
