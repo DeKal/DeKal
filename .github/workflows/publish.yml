@@ -43,5 +43,5 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.SECRET_GITHUB_APP_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: ./portfolio-next-js/public
+          FOLDER: ./portfolio-next-js/out
           CLEAN: true
