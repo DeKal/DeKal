@@ -18,10 +18,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.SECRET_GITHUB_APP_TOKEN }}
         with:
-          token: ${{ secrets.SECRET_GITHUB_API_KEY }}
+          token: ${{ secrets.SECRET_GITHUB_APP_TOKEN }}
           fetch-depth: 0
           repository: BootCareer/job-seeker-dashboard
           ref: refs/heads/master
