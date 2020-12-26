@@ -21,13 +21,13 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to DeKal/portfolio-next-js
-2. 💪 Opened PR [#402](https://github.com/DeKal/portfolio-next-js/pull/402) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+2. 🎉 Merged PR [#402](https://github.com/DeKal/portfolio-next-js/pull/402) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 3. 🔥 Pushed to DeKal/portfolio-next-js
-4. 🎉 Merged PR [#401](https://github.com/DeKal/portfolio-next-js/pull/401) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-5. 💪 Opened PR [#401](https://github.com/DeKal/portfolio-next-js/pull/401) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-6. 🔥 Pushed to DeKal/portfolio-next-js
-7. 🎉 Merged PR [#400](https://github.com/DeKal/portfolio-next-js/pull/400) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-8. 💪 Opened PR [#400](https://github.com/DeKal/portfolio-next-js/pull/400) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-9. 🔥 Pushed to DeKal/portfolio-next-js
-10. 🎉 Merged PR [#397](https://github.com/DeKal/portfolio-next-js/pull/397) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+4. 💪 Opened PR [#402](https://github.com/DeKal/portfolio-next-js/pull/402) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+5. 🔥 Pushed to DeKal/portfolio-next-js
+6. 🎉 Merged PR [#401](https://github.com/DeKal/portfolio-next-js/pull/401) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+7. 💪 Opened PR [#401](https://github.com/DeKal/portfolio-next-js/pull/401) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+8. 🔥 Pushed to DeKal/portfolio-next-js
+9. 🎉 Merged PR [#400](https://github.com/DeKal/portfolio-next-js/pull/400) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+10. 💪 Opened PR [#400](https://github.com/DeKal/portfolio-next-js/pull/400) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 <!--END_SECTION:activity-->
