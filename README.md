@@ -21,13 +21,13 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to BootCareer/job-seeker-dashboard
-2. 🎉 Merged PR [#151](https://github.com/BootCareer/job-seeker-dashboard/pull/151) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
-3. 💪 Opened PR [#151](https://github.com/BootCareer/job-seeker-dashboard/pull/151) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
-4. 🔥 Pushed to BootCareer/job-seeker-dashboard
-5. 🎉 Merged PR [#150](https://github.com/BootCareer/job-seeker-dashboard/pull/150) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+2. 🎉 Merged PR [#157](https://github.com/BootCareer/job-seeker-dashboard/pull/157) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+3. 🔥 Pushed to BootCareer/job-seeker-dashboard
+4. 🎉 Merged PR [#156](https://github.com/BootCareer/job-seeker-dashboard/pull/156) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+5. 💪 Opened PR [#156](https://github.com/BootCareer/job-seeker-dashboard/pull/156) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
 6. 🔥 Pushed to BootCareer/job-seeker-dashboard
-7. 💪 Opened PR [#150](https://github.com/BootCareer/job-seeker-dashboard/pull/150) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
-8. 🔥 Pushed to BootCareer/userService
-9. 🎉 Merged PR [#65](https://github.com/BootCareer/userService/pull/65) in [BootCareer/userService](https://github.com/BootCareer/userService)
-10. 🔥 Pushed to BootCareer/job-seeker-dashboard
+7. 🎉 Merged PR [#154](https://github.com/BootCareer/job-seeker-dashboard/pull/154) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+8. 🔥 Pushed to BootCareer/job-seeker-dashboard
+9. 🎉 Merged PR [#155](https://github.com/BootCareer/job-seeker-dashboard/pull/155) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+10. 💪 Opened PR [#155](https://github.com/BootCareer/job-seeker-dashboard/pull/155) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
 <!--END_SECTION:activity-->
