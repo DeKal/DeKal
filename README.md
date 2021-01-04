@@ -20,14 +20,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to BootCareer/userService
-2. 🎉 Merged PR [#67](https://github.com/BootCareer/userService/pull/67) in [BootCareer/userService](https://github.com/BootCareer/userService)
-3. 💪 Opened PR [#67](https://github.com/BootCareer/userService/pull/67) in [BootCareer/userService](https://github.com/BootCareer/userService)
-4. 🔥 Pushed to BootCareer/job-seeker-dashboard
-5. 🔥 Pushed to BootCareer/userService
-6. 🎉 Merged PR [#66](https://github.com/BootCareer/userService/pull/66) in [BootCareer/userService](https://github.com/BootCareer/userService)
-7. 🔥 Pushed to BootCareer/job-seeker-dashboard
-8. 🎉 Merged PR [#162](https://github.com/BootCareer/job-seeker-dashboard/pull/162) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+1. 🔥 Pushed to zalora/lite
+2. 🔥 Pushed to zalora/lite
+3. 🔥 Pushed to BootCareer/job-seeker-dashboard
+4. 🎉 Merged PR [#165](https://github.com/BootCareer/job-seeker-dashboard/pull/165) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+5. 💪 Opened PR [#165](https://github.com/BootCareer/job-seeker-dashboard/pull/165) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+6. 🔥 Pushed to BootCareer/job-seeker-dashboard
+7. 🎉 Merged PR [#164](https://github.com/BootCareer/job-seeker-dashboard/pull/164) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+8. 💪 Opened PR [#164](https://github.com/BootCareer/job-seeker-dashboard/pull/164) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
 9. 🔥 Pushed to BootCareer/job-seeker-dashboard
-10. 🔥 Pushed to BootCareer/job-seeker-dashboard
+10. 🎉 Merged PR [#163](https://github.com/BootCareer/job-seeker-dashboard/pull/163) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
 <!--END_SECTION:activity-->
