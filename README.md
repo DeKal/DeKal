@@ -20,14 +20,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#178](https://github.com/BootCareer/job-seeker-dashboard/pull/178) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
-2. 🔥 Pushed to BootCareer/infras
-3. 🔥 Pushed to BootCareer/userService
-4. 🎉 Merged PR [#68](https://github.com/BootCareer/userService/pull/68) in [BootCareer/userService](https://github.com/BootCareer/userService)
-5. 🔥 Pushed to BootCareer/job-seeker-dashboard
-6. 🎉 Merged PR [#167](https://github.com/BootCareer/job-seeker-dashboard/pull/167) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
-7. 🔥 Pushed to BootCareer/userService
-8. 🔥 Pushed to zalora/lite
-9. 🔥 Pushed to zalora/lite
-10. 🎉 Merged PR [#1442](https://github.com/zalora/lite/pull/1442) in [zalora/lite](https://github.com/zalora/lite)
+1. 🔥 Pushed to BootCareer/userService
+2. 🔥 Pushed to BootCareer/userService
+3. 🔥 Pushed to BootCareer/job-seeker-dashboard
+4. 🎉 Merged PR [#180](https://github.com/BootCareer/job-seeker-dashboard/pull/180) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+5. 💪 Opened PR [#180](https://github.com/BootCareer/job-seeker-dashboard/pull/180) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+6. 🔥 Pushed to BootCareer/job-seeker-dashboard
+7. 🔥 Pushed to BootCareer/landing
+8. 🎉 Merged PR [#5](https://github.com/BootCareer/landing/pull/5) in [BootCareer/landing](https://github.com/BootCareer/landing)
+9. 🔥 Pushed to BootCareer/landing
+10. 🔥 Pushed to BootCareer/job-seeker-dashboard
 <!--END_SECTION:activity-->
