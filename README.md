@@ -1,4 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/DeKal?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/DeKal)
+
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=DeKal&badges=3&width=300&style=--header-bg-color:%23000;--border-radius:10px"
 />
