@@ -22,14 +22,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#186](https://github.com/BootCareer/job-seeker-dashboard/pull/186) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+1. 🔥 Pushed to DeKal/algorithm
 2. 🔥 Pushed to BootCareer/job-seeker-dashboard
-3. 🎉 Merged PR [#185](https://github.com/BootCareer/job-seeker-dashboard/pull/185) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
-4. 💪 Opened PR [#185](https://github.com/BootCareer/job-seeker-dashboard/pull/185) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+3. 🎉 Merged PR [#187](https://github.com/BootCareer/job-seeker-dashboard/pull/187) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+4. 💪 Opened PR [#186](https://github.com/BootCareer/job-seeker-dashboard/pull/186) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
 5. 🔥 Pushed to BootCareer/job-seeker-dashboard
-6. 🔥 Pushed to zalora/costa
-7. 🎉 Merged PR [#844](https://github.com/zalora/costa/pull/844) in [zalora/costa](https://github.com/zalora/costa)
-8. 💪 Opened PR [#844](https://github.com/zalora/costa/pull/844) in [zalora/costa](https://github.com/zalora/costa)
-9. 💪 Opened PR [#6805](https://github.com/zalora/shop/pull/6805) in [zalora/shop](https://github.com/zalora/shop)
-10. 🔥 Pushed to zalora/lite
+6. 🎉 Merged PR [#185](https://github.com/BootCareer/job-seeker-dashboard/pull/185) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+7. 💪 Opened PR [#185](https://github.com/BootCareer/job-seeker-dashboard/pull/185) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
+8. 🔥 Pushed to BootCareer/job-seeker-dashboard
+9. 🔥 Pushed to zalora/costa
+10. 🎉 Merged PR [#844](https://github.com/zalora/costa/pull/844) in [zalora/costa](https://github.com/zalora/costa)
 <!--END_SECTION:activity-->
