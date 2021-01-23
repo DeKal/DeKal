@@ -22,14 +22,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to DeKal/portfolio-next-js
-2. 🎉 Merged PR [#424](https://github.com/DeKal/portfolio-next-js/pull/424) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-3. 💪 Opened PR [#424](https://github.com/DeKal/portfolio-next-js/pull/424) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-4. 🔥 Pushed to DeKal/portfolio-next-js
-5. 🎉 Merged PR [#423](https://github.com/DeKal/portfolio-next-js/pull/423) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-6. 💪 Opened PR [#423](https://github.com/DeKal/portfolio-next-js/pull/423) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-7. 🔥 Pushed to DeKal/portfolio-next-js
-8. 🎉 Merged PR [#410](https://github.com/DeKal/portfolio-next-js/pull/410) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+1. 🔥 Pushed to DeKal/DeKal.github.io
+2. 🔥 Pushed to DeKal/DeKal.github.io
+3. 🔥 Pushed to DeKal/portfolio-next-js
+4. 🎉 Merged PR [#425](https://github.com/DeKal/portfolio-next-js/pull/425) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+5. 💪 Opened PR [#425](https://github.com/DeKal/portfolio-next-js/pull/425) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+6. 🔥 Pushed to DeKal/portfolio-next-js
+7. 🎉 Merged PR [#424](https://github.com/DeKal/portfolio-next-js/pull/424) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+8. 💪 Opened PR [#424](https://github.com/DeKal/portfolio-next-js/pull/424) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 9. 🔥 Pushed to DeKal/portfolio-next-js
-10. 🎉 Merged PR [#422](https://github.com/DeKal/portfolio-next-js/pull/422) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+10. 🎉 Merged PR [#423](https://github.com/DeKal/portfolio-next-js/pull/423) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 <!--END_SECTION:activity-->
