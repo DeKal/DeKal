@@ -22,14 +22,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to DeKal/DeKal.github.io
-2. 🔥 Pushed to DeKal/DeKal.github.io
-3. 🔥 Pushed to DeKal/portfolio-next-js
-4. 🎉 Merged PR [#425](https://github.com/DeKal/portfolio-next-js/pull/425) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-5. 💪 Opened PR [#425](https://github.com/DeKal/portfolio-next-js/pull/425) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-6. 🔥 Pushed to DeKal/portfolio-next-js
-7. 🎉 Merged PR [#424](https://github.com/DeKal/portfolio-next-js/pull/424) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-8. 💪 Opened PR [#424](https://github.com/DeKal/portfolio-next-js/pull/424) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-9. 🔥 Pushed to DeKal/portfolio-next-js
-10. 🎉 Merged PR [#423](https://github.com/DeKal/portfolio-next-js/pull/423) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+1. 🔥 Pushed to DeKal/portfolio-next-js
+2. 🔥 Pushed to DeKal/illuminati
+3. 🎉 Merged PR [#372](https://github.com/DeKal/illuminati/pull/372) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
+4. 🗣 Commented on [#371](https://github.com/DeKal/illuminati/issues/371) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
+5. 🔥 Pushed to DeKal/illuminati
+6. 🎉 Merged PR [#370](https://github.com/DeKal/illuminati/pull/370) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
+7. 🔥 Pushed to DeKal/illuminati
+8. 🎉 Merged PR [#369](https://github.com/DeKal/illuminati/pull/369) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
+9. 🔥 Pushed to DeKal/illuminati
+10. 🎉 Merged PR [#368](https://github.com/DeKal/illuminati/pull/368) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
 <!--END_SECTION:activity-->
