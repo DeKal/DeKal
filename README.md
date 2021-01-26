@@ -23,13 +23,13 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to zalora/lite
-2. 🔥 Pushed to zalora/lite
-3. 🎉 Merged PR [#1454](https://github.com/zalora/lite/pull/1454) in [zalora/lite](https://github.com/zalora/lite)
-4. 🔥 Pushed to zalora/lite
-5. 🎉 Merged PR [#1455](https://github.com/zalora/lite/pull/1455) in [zalora/lite](https://github.com/zalora/lite)
-6. 🔥 Pushed to DeKal/portfolio-next-js
-7. 🔥 Pushed to DeKal/illuminati
-8. 🎉 Merged PR [#372](https://github.com/DeKal/illuminati/pull/372) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
-9. 🗣 Commented on [#371](https://github.com/DeKal/illuminati/issues/371) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
-10. 🔥 Pushed to DeKal/illuminati
+2. 🎉 Merged PR [#1453](https://github.com/zalora/lite/pull/1453) in [zalora/lite](https://github.com/zalora/lite)
+3. 🔥 Pushed to zalora/lite
+4. 🎉 Merged PR [#1451](https://github.com/zalora/lite/pull/1451) in [zalora/lite](https://github.com/zalora/lite)
+5. 🔥 Pushed to zalora/lite
+6. 🔥 Pushed to zalora/lite
+7. 🎉 Merged PR [#1454](https://github.com/zalora/lite/pull/1454) in [zalora/lite](https://github.com/zalora/lite)
+8. 🔥 Pushed to zalora/lite
+9. 🎉 Merged PR [#1455](https://github.com/zalora/lite/pull/1455) in [zalora/lite](https://github.com/zalora/lite)
+10. 🔥 Pushed to DeKal/portfolio-next-js
 <!--END_SECTION:activity-->
