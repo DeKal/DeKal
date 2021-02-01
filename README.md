@@ -22,14 +22,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to BootCareer/landing
-2. 🎉 Merged PR [#6](https://github.com/BootCareer/landing/pull/6) in [BootCareer/landing](https://github.com/BootCareer/landing)
-3. 🔥 Pushed to DeKal/illuminati
-4. 🎉 Merged PR [#364](https://github.com/DeKal/illuminati/pull/364) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
+1. 🔥 Pushed to zalora/lite
+2. 🎉 Merged PR [#1465](https://github.com/zalora/lite/pull/1465) in [zalora/lite](https://github.com/zalora/lite)
+3. 🔥 Pushed to BootCareer/landing
+4. 🎉 Merged PR [#6](https://github.com/BootCareer/landing/pull/6) in [BootCareer/landing](https://github.com/BootCareer/landing)
 5. 🔥 Pushed to DeKal/illuminati
-6. 🎉 Merged PR [#371](https://github.com/DeKal/illuminati/pull/371) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
+6. 🎉 Merged PR [#364](https://github.com/DeKal/illuminati/pull/364) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
 7. 🔥 Pushed to DeKal/illuminati
-8. 🎉 Merged PR [#374](https://github.com/DeKal/illuminati/pull/374) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
+8. 🎉 Merged PR [#371](https://github.com/DeKal/illuminati/pull/371) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
 9. 🔥 Pushed to DeKal/illuminati
-10. 🎉 Merged PR [#375](https://github.com/DeKal/illuminati/pull/375) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
+10. 🎉 Merged PR [#374](https://github.com/DeKal/illuminati/pull/374) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
 <!--END_SECTION:activity-->
