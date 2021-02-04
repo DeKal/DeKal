@@ -23,13 +23,13 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to zalora/lite
-2. 🎉 Merged PR [#1471](https://github.com/zalora/lite/pull/1471) in [zalora/lite](https://github.com/zalora/lite)
-3. 🔥 Pushed to zalora/lite
-4. 🎉 Merged PR [#1459](https://github.com/zalora/lite/pull/1459) in [zalora/lite](https://github.com/zalora/lite)
+2. 🔥 Pushed to zalora/lite
+3. 🎉 Merged PR [#1473](https://github.com/zalora/lite/pull/1473) in [zalora/lite](https://github.com/zalora/lite)
+4. 🔥 Pushed to zalora/lite
 5. 🔥 Pushed to zalora/lite
-6. 🔥 Pushed to zalora/lite
-7. 🎉 Merged PR [#1470](https://github.com/zalora/lite/pull/1470) in [zalora/lite](https://github.com/zalora/lite)
+6. 🎉 Merged PR [#1472](https://github.com/zalora/lite/pull/1472) in [zalora/lite](https://github.com/zalora/lite)
+7. 🔥 Pushed to zalora/lite
 8. 🔥 Pushed to zalora/lite
-9. 🔥 Pushed to zalora/solr-search
-10. 🎉 Merged PR [#150](https://github.com/zalora/solr-search/pull/150) in [zalora/solr-search](https://github.com/zalora/solr-search)
+9. 🎉 Merged PR [#1471](https://github.com/zalora/lite/pull/1471) in [zalora/lite](https://github.com/zalora/lite)
+10. 🔥 Pushed to zalora/lite
 <!--END_SECTION:activity-->
