@@ -22,14 +22,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to zalora/costa
-2. 🎉 Merged PR [#853](https://github.com/zalora/costa/pull/853) in [zalora/costa](https://github.com/zalora/costa)
-3. 🔥 Pushed to zalora/costa
-4. 💪 Opened PR [#853](https://github.com/zalora/costa/pull/853) in [zalora/costa](https://github.com/zalora/costa)
-5. 🔥 Pushed to BootCareer/userService
-6. 🎉 Merged PR [#77](https://github.com/BootCareer/userService/pull/77) in [BootCareer/userService](https://github.com/BootCareer/userService)
-7. 🔥 Pushed to BootCareer/job-seeker-dashboard
-8. 🎉 Merged PR [#190](https://github.com/BootCareer/job-seeker-dashboard/pull/190) in [BootCareer/job-seeker-dashboard](https://github.com/BootCareer/job-seeker-dashboard)
-9. 🔥 Pushed to BootCareer/job-seeker-dashboard
-10. 🔥 Pushed to zalora/lite
+1. 🔥 Pushed to zalora/lite
+2. 🔥 Pushed to zalora/lite
+3. 🎉 Merged PR [#1441](https://github.com/zalora/lite/pull/1441) in [zalora/lite](https://github.com/zalora/lite)
+4. 🔥 Pushed to zalora/costa
+5. 🎉 Merged PR [#853](https://github.com/zalora/costa/pull/853) in [zalora/costa](https://github.com/zalora/costa)
+6. 🔥 Pushed to zalora/costa
+7. 💪 Opened PR [#853](https://github.com/zalora/costa/pull/853) in [zalora/costa](https://github.com/zalora/costa)
+8. 🔥 Pushed to BootCareer/userService
+9. 🎉 Merged PR [#77](https://github.com/BootCareer/userService/pull/77) in [BootCareer/userService](https://github.com/BootCareer/userService)
+10. 🔥 Pushed to BootCareer/job-seeker-dashboard
 <!--END_SECTION:activity-->
