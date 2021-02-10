@@ -17,7 +17,7 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 - 🔗 [Linkedin](https://www.linkedin.com/in/phat-ho/)
 - 📹 [Facebook](https://www.facebook.com/dekal.dev)
 - 📧 <a href="mailto:hohuuphat22@gmail.com">Email</a>
-- 📄 <a id="raw-url" href="https://raw.githubusercontent.com/DeKal/DeKal/master/cv/dekal.pdf">Resume</a>
+- 📄 <a id="raw-url" href="https://raw.githubusercontent.com/DeKal/DeKal/master/cv/phathuuho_cv.pdf">Resume</a>
 
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
