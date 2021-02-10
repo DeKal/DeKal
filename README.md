@@ -23,14 +23,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to zalora/lite
-2. 🔥 Pushed to zalora/lite
-3. 🎉 Merged PR [#1441](https://github.com/zalora/lite/pull/1441) in [zalora/lite](https://github.com/zalora/lite)
-4. 🔥 Pushed to zalora/costa
-5. 🎉 Merged PR [#853](https://github.com/zalora/costa/pull/853) in [zalora/costa](https://github.com/zalora/costa)
-6. 🔥 Pushed to zalora/costa
-7. 💪 Opened PR [#853](https://github.com/zalora/costa/pull/853) in [zalora/costa](https://github.com/zalora/costa)
-8. 🔥 Pushed to BootCareer/userService
-9. 🎉 Merged PR [#77](https://github.com/BootCareer/userService/pull/77) in [BootCareer/userService](https://github.com/BootCareer/userService)
-10. 🔥 Pushed to BootCareer/job-seeker-dashboard
+1. 🔥 Pushed to DeKal/DeKal
+2. 🔥 Pushed to DeKal/dekal-cv-v2
+3. 🔥 Pushed to DeKal/dekal-cv-v2
+4. 🔥 Pushed to DeKal/DeKal
+5. 🔥 Pushed to DeKal/dekal-cv-v2
+6. 🔥 Pushed to DeKal/DeKal
+7. 🔥 Pushed to DeKal/dekal-cv-v2
+8. 🔥 Pushed to DeKal/dekal-cv-v2
+9. 🔥 Pushed to DeKal/DeKal
+10. 🔥 Pushed to DeKal/dekal-cv-v2
 <!--END_SECTION:activity-->
