@@ -24,13 +24,13 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to zalora/lite
-2. 🔥 Pushed to DeKal/DeKal
-3. 🔥 Pushed to DeKal/dekal-cv-v2
+2. 🔥 Pushed to zalora/lite
+3. 🔥 Pushed to DeKal/DeKal
 4. 🔥 Pushed to DeKal/dekal-cv-v2
-5. 🔥 Pushed to DeKal/DeKal
-6. 🔥 Pushed to DeKal/dekal-cv-v2
-7. 🔥 Pushed to DeKal/DeKal
-8. 🔥 Pushed to DeKal/dekal-cv-v2
+5. 🔥 Pushed to DeKal/dekal-cv-v2
+6. 🔥 Pushed to DeKal/DeKal
+7. 🔥 Pushed to DeKal/dekal-cv-v2
+8. 🔥 Pushed to DeKal/DeKal
 9. 🔥 Pushed to DeKal/dekal-cv-v2
-10. 🔥 Pushed to DeKal/DeKal
+10. 🔥 Pushed to DeKal/dekal-cv-v2
 <!--END_SECTION:activity-->
