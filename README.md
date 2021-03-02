@@ -24,13 +24,13 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to zalora/lite
-2. 🔥 Pushed to zalora/costa
+2. 🔥 Pushed to zalora/lite
 3. 🔥 Pushed to zalora/lite
-4. 🎉 Merged PR [#1486](https://github.com/zalora/lite/pull/1486) in [zalora/lite](https://github.com/zalora/lite)
-5. 💪 Opened PR [#1486](https://github.com/zalora/lite/pull/1486) in [zalora/lite](https://github.com/zalora/lite)
-6. 🔥 Pushed to DeKal/illuminati
-7. 🎉 Merged PR [#394](https://github.com/DeKal/illuminati/pull/394) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
-8. 🔥 Pushed to DeKal/illuminati
-9. 🎉 Merged PR [#384](https://github.com/DeKal/illuminati/pull/384) in [DeKal/illuminati](https://github.com/DeKal/illuminati)
-10. 🔥 Pushed to DeKal/illuminati
+4. 🔥 Pushed to zalora/lite
+5. 💪 Opened PR [#1487](https://github.com/zalora/lite/pull/1487) in [zalora/lite](https://github.com/zalora/lite)
+6. 🔥 Pushed to zalora/lite
+7. 🔥 Pushed to zalora/lite
+8. 🔥 Pushed to zalora/lite
+9. 🔥 Pushed to zalora/lite
+10. 🔥 Pushed to zalora/lite
 <!--END_SECTION:activity-->
