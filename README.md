@@ -25,12 +25,12 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to zalora/lite
 2. 🔥 Pushed to zalora/lite
-3. 🎉 Merged PR [#1494](https://github.com/zalora/lite/pull/1494) in [zalora/lite](https://github.com/zalora/lite)
-4. 💪 Opened PR [#1494](https://github.com/zalora/lite/pull/1494) in [zalora/lite](https://github.com/zalora/lite)
-5. 🔥 Pushed to zalora/lite
+3. 🔥 Pushed to zalora/lite
+4. 🎉 Merged PR [#1494](https://github.com/zalora/lite/pull/1494) in [zalora/lite](https://github.com/zalora/lite)
+5. 💪 Opened PR [#1494](https://github.com/zalora/lite/pull/1494) in [zalora/lite](https://github.com/zalora/lite)
 6. 🔥 Pushed to zalora/lite
-7. 🎉 Merged PR [#1487](https://github.com/zalora/lite/pull/1487) in [zalora/lite](https://github.com/zalora/lite)
-8. 🔥 Pushed to zalora/lite
+7. 🔥 Pushed to zalora/lite
+8. 🎉 Merged PR [#1487](https://github.com/zalora/lite/pull/1487) in [zalora/lite](https://github.com/zalora/lite)
 9. 🔥 Pushed to zalora/lite
 10. 🔥 Pushed to zalora/lite
 <!--END_SECTION:activity-->
