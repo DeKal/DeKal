@@ -25,12 +25,12 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to DeKal/metaweather-forecast
 2. 🔥 Pushed to DeKal/metaweather-forecast
-3. 🔥 Pushed to zalora/costa
-4. 🔥 Pushed to zalora/costa
-5. 🔥 Pushed to zalora/costa
-6. 🔥 Pushed to zalora/lite
-7. 🔥 Pushed to zalora/lite
-8. 🔥 Pushed to zalora/lite
-9. 🔥 Pushed to zalora/costa
-10. 💪 Opened PR [#862](https://github.com/zalora/costa/pull/862) in [zalora/costa](https://github.com/zalora/costa)
+3. 🔥 Pushed to DeKal/metaweather-forecast
+4. 🔥 Pushed to DeKal/metaweather-forecast
+5. 🔥 Pushed to DeKal/metaweather-forecast
+6. 🔥 Pushed to DeKal/metaweather-forecast
+7. 🔥 Pushed to DeKal/metaweather-forecast
+8. 🔥 Pushed to DeKal/metaweather-forecast
+9. 🔥 Pushed to DeKal/metaweather-forecast
+10. 🔥 Pushed to zalora/costa
 <!--END_SECTION:activity-->
