@@ -23,8 +23,8 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to DeKal/metaweather-forecast
-2. 🔥 Pushed to DeKal/metaweather-forecast
+1. 🔥 Pushed to zalora/costa
+2. 🔥 Pushed to zalora/costa
 3. 🔥 Pushed to DeKal/metaweather-forecast
 4. 🔥 Pushed to DeKal/metaweather-forecast
 5. 🔥 Pushed to DeKal/metaweather-forecast
@@ -32,5 +32,5 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 7. 🔥 Pushed to DeKal/metaweather-forecast
 8. 🔥 Pushed to DeKal/metaweather-forecast
 9. 🔥 Pushed to DeKal/metaweather-forecast
-10. 🔥 Pushed to zalora/costa
+10. 🔥 Pushed to DeKal/metaweather-forecast
 <!--END_SECTION:activity-->
