@@ -23,14 +23,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to DeKal/algorithm
-2. 🔥 Pushed to BootCareer/infras
-3. 🔥 Pushed to BootCareer/userService
-4. 🔥 Pushed to zalora/costa
+1. 🔥 Pushed to zalora/lite
+2. 🔥 Pushed to DeKal/algorithm
+3. 🔥 Pushed to BootCareer/infras
+4. 🔥 Pushed to BootCareer/userService
 5. 🔥 Pushed to zalora/costa
 6. 🔥 Pushed to zalora/costa
-7. 🔥 Pushed to zalora/lite
-8. 🔥 Pushed to zalora/costa
+7. 🔥 Pushed to zalora/costa
+8. 🔥 Pushed to zalora/lite
 9. 🔥 Pushed to zalora/costa
 10. 🔥 Pushed to zalora/costa
 <!--END_SECTION:activity-->
