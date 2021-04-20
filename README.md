@@ -23,14 +23,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to zalora/lite
-2. 🔥 Pushed to zalora/costa
-3. 🎉 Merged PR [#880](https://github.com/zalora/costa/pull/880) in [zalora/costa](https://github.com/zalora/costa)
-4. 🔥 Pushed to zalora/costa
-5. 💪 Opened PR [#880](https://github.com/zalora/costa/pull/880) in [zalora/costa](https://github.com/zalora/costa)
-6. 🔥 Pushed to zalora/costa
-7. 🎉 Merged PR [#877](https://github.com/zalora/costa/pull/877) in [zalora/costa](https://github.com/zalora/costa)
-8. 💪 Opened PR [#877](https://github.com/zalora/costa/pull/877) in [zalora/costa](https://github.com/zalora/costa)
-9. 🔥 Pushed to zalora/costa
+1. 🔥 Pushed to zalora/costa
+2. 🔥 Pushed to zalora/lite
+3. 🔥 Pushed to zalora/costa
+4. 🎉 Merged PR [#880](https://github.com/zalora/costa/pull/880) in [zalora/costa](https://github.com/zalora/costa)
+5. 🔥 Pushed to zalora/costa
+6. 💪 Opened PR [#880](https://github.com/zalora/costa/pull/880) in [zalora/costa](https://github.com/zalora/costa)
+7. 🔥 Pushed to zalora/costa
+8. 🎉 Merged PR [#877](https://github.com/zalora/costa/pull/877) in [zalora/costa](https://github.com/zalora/costa)
+9. 💪 Opened PR [#877](https://github.com/zalora/costa/pull/877) in [zalora/costa](https://github.com/zalora/costa)
 10. 🔥 Pushed to zalora/costa
 <!--END_SECTION:activity-->
