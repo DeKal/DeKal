@@ -23,14 +23,14 @@ Fullstack Software Engineer at [ZALORA](https://github.com/zalora/). 5+ years of
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#441](https://github.com/DeKal/portfolio-next-js/issues/441) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-2. 🔥 Pushed to DeKal/portfolio-next-js
-3. 🎉 Merged PR [#439](https://github.com/DeKal/portfolio-next-js/pull/439) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+1. 🗣 Commented on [#437](https://github.com/DeKal/portfolio-next-js/issues/437) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+2. 🗣 Commented on [#443](https://github.com/DeKal/portfolio-next-js/issues/443) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+3. 🗣 Commented on [#441](https://github.com/DeKal/portfolio-next-js/issues/441) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 4. 🔥 Pushed to DeKal/portfolio-next-js
-5. 🎉 Merged PR [#445](https://github.com/DeKal/portfolio-next-js/pull/445) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+5. 🎉 Merged PR [#439](https://github.com/DeKal/portfolio-next-js/pull/439) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 6. 🔥 Pushed to DeKal/portfolio-next-js
-7. 🎉 Merged PR [#446](https://github.com/DeKal/portfolio-next-js/pull/446) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+7. 🎉 Merged PR [#445](https://github.com/DeKal/portfolio-next-js/pull/445) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 8. 🔥 Pushed to DeKal/portfolio-next-js
-9. 🎉 Merged PR [#447](https://github.com/DeKal/portfolio-next-js/pull/447) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
+9. 🎉 Merged PR [#446](https://github.com/DeKal/portfolio-next-js/pull/446) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 10. 🔥 Pushed to DeKal/portfolio-next-js
 <!--END_SECTION:activity-->
