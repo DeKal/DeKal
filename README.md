@@ -25,12 +25,4 @@ Fullstack Software Engineer at [NAB](https://www.nab.com.au/). 5+ years of algor
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/TheodoreShelby/bakeshop/pull/1) in [TheodoreShelby/bakeshop](https://github.com/TheodoreShelby/bakeshop)
 2. 🔥 Pushed to DeKal/DeKal
-3. 🔥 Pushed to DeKal/portfolio-next-js
-4. 🎉 Merged PR [#454](https://github.com/DeKal/portfolio-next-js/pull/454) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-5. 💪 Opened PR [#454](https://github.com/DeKal/portfolio-next-js/pull/454) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-6. 🔥 Pushed to DeKal/portfolio-next-js
-7. 🎉 Merged PR [#453](https://github.com/DeKal/portfolio-next-js/pull/453) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-8. 💪 Opened PR [#453](https://github.com/DeKal/portfolio-next-js/pull/453) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-9. 🔥 Pushed to DeKal/portfolio-next-js
-10. 🎉 Merged PR [#452](https://github.com/DeKal/portfolio-next-js/pull/452) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
 <!--END_SECTION:activity-->
