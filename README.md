@@ -26,5 +26,4 @@ Fullstack Software Engineer at [NAB](https://www.nab.com.au/). 5+ years of algor
 1. 💪 Opened PR [#11](https://github.com/banh-mi-squad/goods-bidding-app-fe/pull/11) in [banh-mi-squad/goods-bidding-app-fe](https://github.com/banh-mi-squad/goods-bidding-app-fe)
 2. 🔥 Pushed to banh-mi-squad/goods-bidding-app-fe
 3. 🔥 Pushed to banh-mi-squad/goods-bidding-app
-4. 💪 Opened PR [#1](https://github.com/TheodoreShelby/bakeshop/pull/1) in [TheodoreShelby/bakeshop](https://github.com/TheodoreShelby/bakeshop)
 <!--END_SECTION:activity-->
