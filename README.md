@@ -23,7 +23,9 @@ Fullstack Software Engineer at [NAB](https://www.nab.com.au/). 5+ years of algor
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/banh-mi-squad/goods-bidding-app-fe/pull/11) in [banh-mi-squad/goods-bidding-app-fe](https://github.com/banh-mi-squad/goods-bidding-app-fe)
-2. 🔥 Pushed to banh-mi-squad/goods-bidding-app-fe
-3. 🔥 Pushed to banh-mi-squad/goods-bidding-app
+1. 🔥 Pushed to banh-mi-squad/goods-bidding-app-fe
+2. 🎉 Merged PR [#11](https://github.com/banh-mi-squad/goods-bidding-app-fe/pull/11) in [banh-mi-squad/goods-bidding-app-fe](https://github.com/banh-mi-squad/goods-bidding-app-fe)
+3. 💪 Opened PR [#11](https://github.com/banh-mi-squad/goods-bidding-app-fe/pull/11) in [banh-mi-squad/goods-bidding-app-fe](https://github.com/banh-mi-squad/goods-bidding-app-fe)
+4. 🔥 Pushed to banh-mi-squad/goods-bidding-app-fe
+5. 🔥 Pushed to banh-mi-squad/goods-bidding-app
 <!--END_SECTION:activity-->
