@@ -23,14 +23,14 @@ Fullstack Software Engineer at [NAB](https://www.nab.com.au/). 5+ years of algor
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to grokking-vietnam/lab-knowledge-graph
-2. 🎉 Merged PR [#28](https://github.com/grokking-vietnam/lab-knowledge-graph/pull/28) in [grokking-vietnam/lab-knowledge-graph](https://github.com/grokking-vietnam/lab-knowledge-graph)
-3. 💪 Opened PR [#28](https://github.com/grokking-vietnam/lab-knowledge-graph/pull/28) in [grokking-vietnam/lab-knowledge-graph](https://github.com/grokking-vietnam/lab-knowledge-graph)
-4. 🔥 Pushed to grokking-vietnam/lab-knowledge-graph
-5. 🎉 Merged PR [#26](https://github.com/grokking-vietnam/lab-knowledge-graph/pull/26) in [grokking-vietnam/lab-knowledge-graph](https://github.com/grokking-vietnam/lab-knowledge-graph)
-6. 💪 Opened PR [#26](https://github.com/grokking-vietnam/lab-knowledge-graph/pull/26) in [grokking-vietnam/lab-knowledge-graph](https://github.com/grokking-vietnam/lab-knowledge-graph)
-7. 🔥 Pushed to grokking-vietnam/lab-knowledge-graph
-8. 🔥 Pushed to banh-mi-squad/goods-bidding-app-fe
-9. 🎉 Merged PR [#11](https://github.com/banh-mi-squad/goods-bidding-app-fe/pull/11) in [banh-mi-squad/goods-bidding-app-fe](https://github.com/banh-mi-squad/goods-bidding-app-fe)
-10. 💪 Opened PR [#11](https://github.com/banh-mi-squad/goods-bidding-app-fe/pull/11) in [banh-mi-squad/goods-bidding-app-fe](https://github.com/banh-mi-squad/goods-bidding-app-fe)
+1. 🔥 Pushed to DeKal/algorithm
+2. 🔥 Pushed to DeKal/algorithm
+3. 🔥 Pushed to DeKal/algorithm
+4. 🔥 Pushed to DeKal/algorithm
+5. 🔥 Pushed to DeKal/algorithm
+6. 🔥 Pushed to DeKal/algorithm
+7. 🔥 Pushed to DeKal/algorithm
+8. 🔥 Pushed to DeKal/algorithm
+9. 🔥 Pushed to DeKal/algorithm
+10. 🔥 Pushed to DeKal/algorithm
 <!--END_SECTION:activity-->
