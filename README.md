@@ -23,14 +23,12 @@ Fullstack Software Engineer at [NAB](https://www.nab.com.au/). 5+ years of algor
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to DeKal/algorithm
-2. 🔥 Pushed to DeKal/algorithm
-3. 🔥 Pushed to DeKal/algorithm
-4. 🔥 Pushed to DeKal/algorithm
-5. 🔥 Pushed to DeKal/algorithm
-6. 🔥 Pushed to DeKal/algorithm
-7. 🔥 Pushed to DeKal/algorithm
-8. 🔥 Pushed to DeKal/algorithm
-9. 🔥 Pushed to DeKal/algorithm
-10. 🔥 Pushed to DeKal/algorithm
+1. 🔥 Pushed to DeKal/DeKal
+2. 🔥 Pushed to DeKal/DeKal
+3. 🔥 Pushed to DeKal/DeKal
+4. 🔥 Pushed to DeKal/DeKal
+5. 🔥 Pushed to DeKal/DeKal
+6. 🔥 Pushed to DeKal/dekal-cv-v2
+7. 🔥 Pushed to DeKal/dekal-cv-v2
+8. 🔥 Pushed to DeKal/dekal-cv-v2
 <!--END_SECTION:activity-->
