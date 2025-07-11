@@ -23,14 +23,12 @@ https://phatho-dev.com/
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to DeKal/dekal-cv-v2
-2. 🔥 Pushed to DeKal/dekal-cv-v2
-3. ❌ Closed PR [#468](https://github.com/DeKal/portfolio-next-js/pull/468) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-4. 🔥 Pushed to DeKal/portfolio-next-js
-5. 🎉 Merged PR [#469](https://github.com/DeKal/portfolio-next-js/pull/469) in [DeKal/portfolio-next-js](https://github.com/DeKal/portfolio-next-js)
-6. 🔥 Pushed to DeKal/portfolio-next-js
-7. 🔥 Pushed to DeKal/portfolio-next-js
-8. 🔥 Pushed to DeKal/portfolio-next-js
-9. 🔥 Pushed to DeKal/portfolio-next-js
-10. 🔥 Pushed to DeKal/portfolio-next-js
+1. 🔥 Pushed to DeKal/DeKal
+2. 🔥 Pushed to DeKal/DeKal
+3. 🔥 Pushed to DeKal/DeKal
+4. 🔥 Pushed to DeKal/dekal-cv-v2
+5. 🔥 Pushed to DeKal/dekal-cv-v2
+6. 🔥 Pushed to DeKal/dekal-cv-v2
+7. 🔥 Pushed to DeKal/dekal-cv-v2
+8. 🔥 Pushed to DeKal/dekal-cv-v2
 <!--END_SECTION:activity-->
