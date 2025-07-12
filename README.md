@@ -24,11 +24,13 @@ https://phatho-dev.com/
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to DeKal/DeKal
-2. 🔥 Pushed to DeKal/DeKal
-3. 🔥 Pushed to DeKal/DeKal
+2. 🔥 Pushed to DeKal/dekal-cv-v2
+3. 🔥 Pushed to DeKal/dekal-cv-v2
 4. 🔥 Pushed to DeKal/dekal-cv-v2
 5. 🔥 Pushed to DeKal/dekal-cv-v2
 6. 🔥 Pushed to DeKal/dekal-cv-v2
 7. 🔥 Pushed to DeKal/dekal-cv-v2
 8. 🔥 Pushed to DeKal/dekal-cv-v2
+9. 🔥 Pushed to DeKal/dekal-cv-v2
+10. 🔥 Pushed to DeKal/dekal-cv-v2
 <!--END_SECTION:activity-->
