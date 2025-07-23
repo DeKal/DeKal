@@ -25,7 +25,7 @@ https://phatho-dev.com/
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to DeKal/DeKal
 2. 🔥 Pushed to DeKal/dekal-cv-v2
-3. 🔥 Pushed to DeKal/dekal-cv-v2
+3. 🔥 Pushed to DeKal/DeKal
 4. 🔥 Pushed to DeKal/dekal-cv-v2
 5. 🔥 Pushed to DeKal/dekal-cv-v2
 6. 🔥 Pushed to DeKal/dekal-cv-v2
