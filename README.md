@@ -17,6 +17,8 @@ https://phatho-dev.com/
 
 
 ### [Recent Activities](https://github.com/DeKal/github-activity-readme)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=DeKal)](https://github.com/stats-organization/github-stats-extended)
+
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to DeKal/DeKal
 2. 🔥 Pushed to DeKal/dekal-cv-v2
