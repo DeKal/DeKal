@@ -5,10 +5,10 @@
 />
 
 ### Hi and Welcome 
-Backend Lead Software Engineer at [NAB](https://www.nab.com.au/). 5+ years of algorithm background since high school. 5+ years of experience specializing in frontend/backend development, infras‐ tructure automation, and microservices. Super music‐nerd who loves Rock, Metal and enjoys playing around with the latest technologies while listening to music. Interested in devising a better problem‐solving method for challenging tasks, and learning new technologies and tools if the need arises.
+Senior Software Engineer at [SAP SuccessFactors](https://www.sap.com/products/hcm.html). Competitive-programming background since high school (ACM-ICPC). 9+ years of experience specializing in high-throughput distributed systems, DAG orchestration frameworks, and enterprise data pipelines — currently building systems that process billions of events across multi-tenant environments. Super music-nerd who loves Rock, Metal and enjoys playing around with the latest technologies while listening to music. Interested in devising better problem-solving methods for challenging tasks, and learning new technologies and tools whenever the need arises.
 
 https://phatho-dev.com/
-<a href="https://phatho-dev.com/"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=DeKal&show_icons=true&theme=merko&count_private=true" align="right" height="190" /></a>
+<a href="https://phatho-dev.com/"></a>
 
 
 ### Contact
